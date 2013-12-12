@@ -1,0 +1,41 @@
+8
+
+dir
+10
+http://zapwireless.googlecode.com/svn/trunk/zap
+http://zapwireless.googlecode.com/svn
+
+
+
+2010-01-07T23:11:23.828068Z
+5
+why812
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+02add75a-e922-11de-b92f-5d3588262692
+
+zap.c
+file
+
+
+
+
+2011-02-09T06:39:31.000000Z
+ccd2a97aca048556ef93a80b2fa92abc
+2010-01-07T23:11:23.828068Z
+5
+why812
+has-props
+
